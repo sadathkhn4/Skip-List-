@@ -1,0 +1,8 @@
+insert 			alpha 5 		3 4 	9
+
+
+   insert beta    4 2 	 5	 0
+insert gamma 1 2 4 5
+
+
+
